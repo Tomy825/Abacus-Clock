@@ -1,0 +1,50 @@
+.phone {
+	width: 300px;
+	height: 600px;
+	margin: 0px auto 0px auto;
+	background-image: url(phone.png);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+.box {
+	background-image: url(Clockback.png);
+	margin: 0px auto 0px auto;
+	width: 250px;
+	height: 500px;
+	text-align: center;
+	position: relative;
+	top: 50px;
+	left: 0px;
+	}
+.apm {
+	box-sizing: border-box;
+	width: 200px;
+	height: 87.5px;
+	position: relative;
+	top: 25px;
+	left: 25px;
+}
+.hour {
+	box-sizing: border-box;
+	width: 200px;
+	height: 87.5px;
+	position: relative;
+	top: 87px;
+	left: 25px;
+}
+.min {
+	box-sizing: border-box;
+	width: 200px;
+	height: 87.5px;
+	position: relative;
+	top:104px;
+	left: 25px;
+}
+.sec {
+	box-sizing: border-box;
+	width: 200px;
+	height: 87.5px;
+	position: relative;
+	top: 122px;
+	left: 25px;
+}
